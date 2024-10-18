@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|c:\\users\\zsp3\\source\\repos\\repertuarkina\\repertuarkina\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|solutionrelative:repertuarkina\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|c:\\users\\zsp3\\source\\repos\\repertuarkina\\repertuarkina\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|solutionrelative:repertuarkina\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|c:\\users\\zsp3\\source\\repos\\repertuarkina\\repertuarkina\\src\\movielist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|solutionrelative:repertuarkina\\src\\movielist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|c:\\users\\zsp3\\source\\repos\\repertuarkina\\repertuarkina\\src\\movielist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3038052-C00A-4C6B-9B0A-39633C294718}|repertuarKina\\repertuarkina.esproj|solutionrelative:repertuarkina\\src\\movielist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieList.css",
+              "DocumentMoniker": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\MovieList.css",
+              "RelativeDocumentMoniker": "repertuarkina\\src\\MovieList.css",
+              "ToolTip": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\MovieList.css",
+              "RelativeToolTip": "repertuarkina\\src\\MovieList.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T11:36:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieList.jsx",
+              "DocumentMoniker": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\MovieList.jsx",
+              "RelativeDocumentMoniker": "repertuarkina\\src\\MovieList.jsx",
+              "ToolTip": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\MovieList.jsx",
+              "RelativeToolTip": "repertuarkina\\src\\MovieList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-17T06:55:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\App.css",
+              "RelativeDocumentMoniker": "repertuarkina\\src\\App.css",
+              "ToolTip": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\App.css",
+              "RelativeToolTip": "repertuarkina\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T07:31:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\App.jsx",
+              "RelativeDocumentMoniker": "repertuarkina\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\ZSP3\\source\\repos\\repertuarKina\\repertuarkina\\src\\App.jsx",
+              "RelativeToolTip": "repertuarkina\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-17T07:19:05.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
